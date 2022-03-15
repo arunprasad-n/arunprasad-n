@@ -1,0 +1,9 @@
+{
+	"name": "df1az900",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72c3ff8f-6f34-44d7-a93c-ee8ccb5ed754",
+		"tenantId": "d8d746c8-21be-4b72-925c-2d2ad2442ecd"
+	}
+}
